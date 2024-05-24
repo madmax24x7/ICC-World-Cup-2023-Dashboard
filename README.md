@@ -15,8 +15,8 @@ The report utilizes data from various sources, including:
 
 Data Sources
 The report utilizes data from various sources, including:
-2 ICC Official Website: ICC World Cup match data, player statistics, and team records.
-3 ESPN Cricinfo: statistics and match details.
+1 ICC Official Website: ICC World Cup match data, player statistics, and team records.
+2 ESPN Cricinfo: statistics and match details.
 
 Tools
 1 Power BI Version: The report is built using Power BI Desktop (version 2.129.905.0).
